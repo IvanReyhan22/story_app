@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="illustration">Ilustrasi</string>
+    <string name="welcome">Selamat Datang 👋</string>
+    <string name="intro_desc">Mulailah kisahmu agar dunia tahu dan biarkan kehidupanmu yang unik bersinar.</string>
+    <string name="button">Tekan Aku</string>
+    <string name="get_started">Mulai</string>
+    <string name="sign_in">Masuk</string>
+    <string name="login">Masuk</string>
+    <string name="forgot_password">Lupa Password</string>
+    <string name="register">Daftar</string>
+    <string name="sign_up">Daftar</string>
+    <string name="username">Nama</string>
+    <string name="date">12 Januari 2022</string>
+    <string name="post_option">Opsi Postingan</string>
+    <string name="dummy_text">Dolorem quae dolorem doloribus fugiat molestias. Voluptatem error aut voluptates.</string>
+    <string name="post">Postingan</string>
+    <string name="write_your_story">Tulis ceritamu…</string>
+    <string name="loading">Memuat</string>
+    <string name="capture_image">Ambil Gambar</string>
+    <string name="switch_camera">Ubah Kamera</string>
+    <string name="logout">Keluar</string>
+    <string name="appwidget_text">CONTOH</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="app_widget_description">Ini adalah deskripsi widget</string>
+    <string name="empty">Kosong</string>
+    <string name="empty_stories">Belum ada cerita</string>
+    <string name="registration_complete">Daftar berhasil</string>
+    <string name="permission_denied">Izin tidak diberikan</string>
+    <string name="post_story">Posting cerita</string>
+    <string name="upload_success">Unggah Berhasil</string>
+    <string name="add_description">Mohon isi deskripsi terlebih dahulu</string>
+    <string name="choose_picture">Mohon pilih gambar terlebih dahulu</string>
+    <string name="pick_image">Pilih Gambar</string>
+    <string name="failed_take_picture">Gagal mengambil gambar</string>
+    <string name="failed_launch_camera">Gagal memuat kamera</string>
+    <string name="minimum_char_8">Karakter minimum 8</string>
+    <string name="password_contain_number">Password harus mengandung angka</string>
+    <string name="minimum_char_5">Karakter minimum 5</string>
+    <string name="field_required">Input tidak boleh kosong</string>
+    <string name="email_not_valid">Format email salah</string>
+    <string name="fill_the_field">Mohon isi input ini</string>
+</resources>
